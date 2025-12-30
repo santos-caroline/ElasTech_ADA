@@ -1,4 +1,4 @@
-package aula5;
+package moduloConhecendoJava.aula5;
 // Define o pacote onde essa interface está organizada
 
 public interface exemploInterface {
