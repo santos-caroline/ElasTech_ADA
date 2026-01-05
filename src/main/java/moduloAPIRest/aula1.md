@@ -15,7 +15,9 @@ em linguagens diferentes ou estejam em plataformas distintas.
 
 
  A [app móvel] --> C [API HTTP]  <-- B [app web]
- C --> D [aplicação]
+ 
+
+C --> D [aplicação]
 
 - As APIs HTTP utilizam os métodos HTTP (GET, POST, PUT, DELETE, etc.) para realizar operações sobre recursos
 e trocar dados entre o cliente e o servidor.

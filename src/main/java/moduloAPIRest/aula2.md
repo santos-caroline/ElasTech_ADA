@@ -7,7 +7,7 @@
 
 ## Protocolos HTTP: defini como o cliente e o servidor se comunicam
 - Conjunto de regras para troca de informações entre sistemas
-- Cliente envia um a resposta para o servidor
+- Cliente envia uma solicitação para o servidor
 - Servidor processa a requisição e envia uma resposta de volta ao cliente
 - cliente não fica conectado ao servidor (conexões de tempo limitado)
 - Resposta SEMPRE vem do servidor
